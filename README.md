@@ -18,4 +18,4 @@ If so, then this document is for you.
 I made this guide while I was learning Docker myself.
 If you find any errors point them out to me.
 
-Head to the [wiki](https://github.sydney.edu.au/sdig7587/docker_tutorial/wiki/Docker-tutorial-for-beginners) for the rest of the tutorial.
+Head to the [wiki](https://github.com/tejaswid/docker_tutorial/wiki) for the rest of the tutorial.
