@@ -1,6 +1,6 @@
 ### Maintenance Information
 - Maintainer: Tejaswi Digumarti
-- Email: sundara.digumarti@sydney.edu.au
+- Email: tejaswi.digumarti@sydney.edu.au
 - Last updated: 8-11-2019
 - Operating System: Ubuntu 18.04
 - Docker Version: Docker Engine - Community version 19.03.4
